@@ -1,0 +1,23 @@
+# 常用代理工具
+
+* 常用代理工具
+  * 抓包工具类
+    * `Charles`
+      * [app抓包利器：Charles](https://book.crifan.com/books/app_capture_package_tool_charles/website)
+    * mitmproxy
+      * [抓包代理利器：mitmproxy](https://book.crifan.com/books/crawler_proxy_tool_mimproxy/website)
+    * wireshark
+  * 科学上网工具类
+    * 协议版本
+      * Shadowsocks
+      * V2Ray
+      * Trojan
+    * 代理模式和对应代理地址
+      * http
+        * http://127.0.0.1:1086
+      * https
+        * https://127.0.0.1:1086
+      * socks5
+        * socks5://127.0.0.1:1086
+      * PAC自动代理
+        * http://127.0.0.1:8070/proxy.pac

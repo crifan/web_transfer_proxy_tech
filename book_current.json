@@ -1,0 +1,19 @@
+{
+  "title": "网络中转站：代理技术",
+  "description": "总结应用广泛的网络中转技术，代理技术。介绍常见的代理技术种类，常见的代理相关概念，比如代理池、代理工具，安装根证书等。介绍如何设置代理，设置代理的通用逻辑。总结各种语言和工具中如何使用代理，实现加速下载、科学上网、爬取信息等各种目的。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "web_transfer_proxy_tech"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/web_transfer_proxy_tech/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf"
+    }
+  }
+}
