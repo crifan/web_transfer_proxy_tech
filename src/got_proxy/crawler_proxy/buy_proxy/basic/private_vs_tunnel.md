@@ -8,9 +8,9 @@
 比如：
 
 * [蜻蜓代理 - 企业级高质量代理ip平台](https://proxy.horocn.com)
-  * ![horocn_private_or_tunnel_ip](../../../assets/img/horocn_private_or_tunnel_ip.png)
+  * ![horocn_private_or_tunnel_ip](../../../../assets/img/horocn_private_or_tunnel_ip.png)
 * [蘑菇代理 - 购买API代理](http://www.moguproxy.com/buy/)
-  * ![moguproxy_private_or_tunnel_ip](../../../assets/img/moguproxy_private_or_tunnel_ip.png)
+  * ![moguproxy_private_or_tunnel_ip](../../../../assets/img/moguproxy_private_or_tunnel_ip.png)
 * [动态版HTTP隧道服务说明 | 阿布云 - 为大数据赋能](https://www.abuyun.com/http-proxy/dyn-intro.html)
   * 动态版 HTTP隧道
 
@@ -100,5 +100,5 @@ IP代理 根据协议，分很多种：
 
 用图解释就更容易懂了：
 
-* ![http_tunnel_proxy_why_xdali](../../../assets/img/http_tunnel_proxy_why_xdali.png)
-* ![http_tunnel_proxy_why_dobel](../../../assets/img/http_tunnel_proxy_why_dobel.png)
+* ![http_tunnel_proxy_why_xdali](../../../../assets/img/http_tunnel_proxy_why_xdali.png)
+* ![http_tunnel_proxy_why_dobel](../../../../assets/img/http_tunnel_proxy_why_dobel.png)

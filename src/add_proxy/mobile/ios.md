@@ -6,30 +6,32 @@
 
 从设置中：
 
-![iphone_settings_wifi](../../assets/img/iphone_settings_wifi.jpg)
+![iphone_settings_wifi](../../assets/img/iphone_settings_wifi.png)
 
 点击对应的WiFi，进入无线局域网：
 
-![ios_wifi_current](../../assets/img/ios_wifi_current.jpg)
+![ios_wifi_current](../../assets/img/ios_wifi_current.png)
 
 点击当前的WiFi，进入Wifi详情页。
 
-默认是 HTTP代理->配置代理：关闭
+默认是`HTTP代理->配置代理：关闭`
 
-![ios_wifi_current_proxy_disable](../../assets/img/ios_wifi_current_proxy_disable.jpg)
+![ios_wifi_current_proxy_disable](../../assets/img/ios_wifi_current_proxy_disable.png)
 
 点击配置代理，进入设置页：
 
-点击 自动，并且输入对应的 服务器 和 端口：
+![ios_wifi_detail_proxy_disable](../../assets/img/ios_wifi_detail_proxy_disable.png)
 
-![ios_wifi_proxy_manual_input_port](../../assets/img/ios_wifi_proxy_manual_input_port.jpg)
+点击`手动`，出现`服务器`、`端口`、`鉴定`等选项：
 
-再点击右上角的 存储，即可保存：
+![ios_wifi_proxy_manual_options](../../assets/img/ios_wifi_proxy_manual_options.png)
 
-![ios_wifi_proxy_manual_stored](../../assets/img/ios_wifi_proxy_manual_stored.jpg)
+然后输入对应的代理配置信息：
 
-然后即可返回上一页，看到 配置代理 变成 手动：
+![ios_wifi_proxy_manual_input_port](../../assets/img/ios_wifi_proxy_manual_input_port.png)
 
-![ios_wifi_proxy_changed_manual](../../assets/img/ios_wifi_proxy_changed_manual.jpg)
+再点击右上角的`存储`，即可保存并返回上一页，看到`配置代理`已变成`手动`：
+
+![ios_wifi_proxy_changed_manual](../../assets/img/ios_wifi_proxy_changed_manual.png)
 
 即表示已手动设置好代理了。

@@ -8,4 +8,4 @@
 
 下面列出对比结果供参考：
 
-![proxy_service_comparation ](../../../assets/img/proxy_service_comparation.png)
+![proxy_service_comparation ](../../../../assets/img/proxy_service_comparation.png)

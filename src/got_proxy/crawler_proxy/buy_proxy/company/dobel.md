@@ -38,20 +38,20 @@
 
 点击 套餐3
 
-![dobel_proxy_suite_3 ](../../../assets/img/dobel_proxy_suite_3.png)
+![dobel_proxy_suite_3 ](../../../../assets/img/dobel_proxy_suite_3.png)
 
 
 再去选择具体配置：
 
-![dobel_suite_3_options ](../../../assets/img/dobel_suite_3_options.png)
+![dobel_suite_3_options ](../../../../assets/img/dobel_suite_3_options.png)
 
 用支付宝支付后，返回订单：
 
-![dobel_order_list ](../../../assets/img/dobel_order_list.png)
+![dobel_order_list ](../../../../assets/img/dobel_order_list.png)
 
 返回 账号管理->http代理，即可看到已购产品：
 
-![dobel_http_proxy_list ](../../../assets/img/dobel_http_proxy_list.png)
+![dobel_http_proxy_list ](../../../../assets/img/dobel_http_proxy_list.png)
 
 把其中的**账号**和**密码**放在代码中，即可使用。
 
@@ -61,13 +61,13 @@
 
 用了一段时间后，还可以去看统计信息：
 
-![dobel_usage_statistics ](../../../assets/img/dobel_usage_statistics.png)
+![dobel_usage_statistics ](../../../../assets/img/dobel_usage_statistics.png)
 
 ## 账号过期
 
 如果账号过期了：
 
-![dobel_proxy_expired ](../../../assets/img/dobel_proxy_expired.png)
+![dobel_proxy_expired ](../../../../assets/img/dobel_proxy_expired.png)
 
 则（PySpider中）会出现：
 
@@ -87,4 +87,4 @@
     requests.exceptions.HTTPError: HTTP 407: Proxy Authentication Required
 ```
 
-![dobel_pyspider_err_expired ](../../../assets/img/dobel_pyspider_err_expired.png)
+![dobel_pyspider_err_expired ](../../../../assets/img/dobel_pyspider_err_expired.png)

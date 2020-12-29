@@ -56,8 +56,8 @@ class Handler(BaseHandler):
     }
 ```
 
-之后的self.crawl正常调用url，即可用上此处的代理了。
+之后的`self.crawl`正常调用url，即可用上此处的代理了。
 
-其中ProxyUri是这种：
+其中`ProxyUri`是这种：
 
 `http://YourUserName:YourPassword@http-proxy-t3.dobel.cn:9180`

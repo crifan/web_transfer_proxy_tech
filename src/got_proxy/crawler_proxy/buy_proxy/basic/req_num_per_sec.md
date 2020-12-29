@@ -15,7 +15,7 @@
 
 比如此处的PySpider中的`rate/burst`
 
-![pyspider_rate_burst_config](../../../assets/img/pyspider_rate_burst_config.png)
+![pyspider_rate_burst_config](../../../../assets/img/pyspider_rate_burst_config.png)
 
 中的表示每秒几个请求的rate，不能超过上面的限制
 

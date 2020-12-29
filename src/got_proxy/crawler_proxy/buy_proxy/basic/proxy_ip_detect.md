@@ -120,6 +120,6 @@ result.text={
 
 查查这几个IP都是哪里的：
 
-![abuyun_proxy_diff ](../../../assets/img/abuyun_proxy_diff.png)
+![abuyun_proxy_diff ](../../../../assets/img/abuyun_proxy_diff.png)
 
 看起来效果不错。

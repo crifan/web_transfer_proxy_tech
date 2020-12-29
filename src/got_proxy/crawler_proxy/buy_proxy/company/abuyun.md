@@ -13,7 +13,7 @@
 
 购买 HTTP隧道 动态版
 
-![buy_abuyun_http_proxy_dynamic ](../../../assets/img/buy_abuyun_http_proxy_dynamic.jpg)
+![buy_abuyun_http_proxy_dynamic ](../../../../assets/img/buy_abuyun_http_proxy_dynamic.jpg)
 
 * 服务说明
   * [动态版HTTP隧道服务说明 | 阿布云 - 为大数据赋能](https://www.abuyun.com/http-proxy/dyn-intro.html)
@@ -24,11 +24,11 @@
 
 先去[注册](https://center.abuyun.com/register#/)，进入[后台](https://center.abuyun.com/#/dashboard)：
 
-![abuyun_admin_control_panel ](../../../assets/img/abuyun_admin_control_panel.png)
+![abuyun_admin_control_panel ](../../../../assets/img/abuyun_admin_control_panel.png)
 
 点击了 申请免费测试隧道 后：
 
-![abuyun_free_test_proxy_tunnel ](../../../assets/img/abuyun_free_test_proxy_tunnel.png)
+![abuyun_free_test_proxy_tunnel ](../../../../assets/img/abuyun_free_test_proxy_tunnel.png)
 
 即可申请到 免费测试时间：4个小时 的动态IP。
 
@@ -36,17 +36,17 @@
 
 比如 购买1天的：
 
-![abuyun_proxy_buy_1_day ](../../../assets/img/abuyun_proxy_buy_1_day.png)
+![abuyun_proxy_buy_1_day ](../../../../assets/img/abuyun_proxy_buy_1_day.png)
 
-![abuyun_1_day_order ](../../../assets/img/abuyun_1_day_order.png)
+![abuyun_1_day_order ](../../../../assets/img/abuyun_1_day_order.png)
 
 跳转到支付宝付款，成功付款后返回订单列表：
 
-![abuyun_order_list ](../../../assets/img/abuyun_order_list.png)
+![abuyun_order_list ](../../../../assets/img/abuyun_order_list.png)
 
 进入[云隧道->HTTP代理](https://center.abuyun.com/#/cloud/http-proxy/tunnel/lists)，可看到已购产品列表：
 
-![abuyun_http_proxy_list ](../../../assets/img/abuyun_http_proxy_list.png)
+![abuyun_http_proxy_list ](../../../../assets/img/abuyun_http_proxy_list.png)
 
 得到了`通行证书`和`通行密钥`，就是**用户名**和**密码**，即可放在代码中使用。
 

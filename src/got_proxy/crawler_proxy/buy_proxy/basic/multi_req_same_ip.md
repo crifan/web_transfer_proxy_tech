@@ -16,7 +16,7 @@
 
 [HTTP隧道产品 | 阿布云 - 为大数据赋能](https://www.abuyun.com/http-proxy/products.html)
 
-![http_proxy_multi_same_ip](../../../assets/img/http_proxy_multi_same_ip.jpg)
+![http_proxy_multi_same_ip](../../../../assets/img/http_proxy_multi_same_ip.jpg)
 
 * 每个请求一个随机IP
   * 每次http请求，IP都不同
