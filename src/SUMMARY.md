@@ -23,6 +23,7 @@
   * [抓包代理](got_proxy/capture_proxy/README.md)
     * [安装根证书](got_proxy/capture_proxy/root_cert.md)
   * [科学上网代理](got_proxy/science_proxy/README.md)
+    * [从客户端获取代理配置](got_proxy/science_proxy/client_config.md)
 * [如何添加代理](add_proxy/README.md)
   * [编程语言](add_proxy/program_language/README.md)
     * [Python](add_proxy/program_language/python/README.md)

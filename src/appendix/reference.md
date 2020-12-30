@@ -1,7 +1,9 @@
 # 参考资料
 
+* [最流行的版本管理系统：Git](http://book.crifan.com/books/version_control_git/website)
 * [【已解决】Mac中给pip3添加代理以提升下载python包的速度 – 在路上](https://www.crifan.com/mac_pip3_add_proxy_enhance_python_download_speed/)
 * 【[已解决】用Python代码测试多贝云代理IP是否生效](https://www.crifan.com/purchase_a_dynamic_ip_proxy_with_different_ip_for_each_request_of_abu_cloud)
+* 
 * 【已解决】小米9安卓手机中安装Charles证书：没有可用连接，因为代理服务器故障或其地址有误
 * 【已解决】给Python的requests加上代理访问WordPress的REST的api
 * 【已解决】iOS自动化安装app：给当前WiFi去掉代理以及自动安装app后再恢复之前代理
@@ -23,4 +25,13 @@
 * 【已解决】Android Studio中给AS本身设置代理
 * 【已解决】Android Studio中给Gradle添加设置代理
 * 【已解决】给用sshpass的rsync加代理以加速
+* 【已解决】Win10中给Python的pip安装库加代理提高下载速度
+* 【部分解决】Mac中给git添加加一次的当前的临时代理
+* 【已解决】mac中给git加代理加速git clone下载代码的速度
+* 【已解决】mac中git push只对github用代理而对gitee不用代理
+* 【已解决】Mac中SecureCRT通过ssh访问Vultr的VPS服务器太慢
+* 
+* [代理技术简介_Thehope way - SegmentFault 思否](https://segmentfault.com/a/1190000008654831)
+* [代理服务器 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/代理服务器)
+* [代理IP广泛的技术应用在哪？-万变ip](https://www.wanbianip.com/News-getInfo-id-191.html)
 * 

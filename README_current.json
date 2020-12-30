@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v0.8",
-  "lastUpdate": "20201229",
+  "latestVersion": "v1.0",
+  "lastUpdate": "20201230",
   "gitRepoName": "web_transfer_proxy_tech",
   "bookName": "网络中转站：代理技术",
   "bookDescription": "总结应用广泛的网络中转技术，代理技术。总结代理的主要用途，相关技术和工具。以及如何获取到代理，包括爬虫代理、抓包代理、科学上网代理等。以及爬虫代理中的购买代理相关的基础知识，比如代理池、私密代理vs隧道代理、扫描vs非扫描、是否去重、多个请求锁定一个IP、每秒请求次数、认证方式、代理IP检测、免费试用等，以及常见代理服务商公司，比如阿布云代理、多贝云代理等。然后介绍抓包代理，和安装根证书等基础知识。总结如何添加代理，包括各种编程语言，尤其是Python中的requests等，和常见开发工具中，比如git、pip、Android Studio、gradle、rsync、SecureCRT等，以及移动端的iOS和Android，桌面端的Mac和Windows等等。"
