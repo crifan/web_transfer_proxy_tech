@@ -21,12 +21,19 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/web_transfer_proxy_tech/website/"
+      "prefix": "https://book.crifan.com/books/web_transfer_proxy_tech/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf",
+      "url": "https://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf",
       "icon": "fa-file-pdf-o",
       "label": "下载PDF"
+    },
+    "google-adsense": {
+      "ads": [
+        {
+          "client": "ca-pub-6626240105039250"
+        }
+      ]
     },
     "callouts": {
       "showTypeInHeader": false
@@ -106,6 +113,7 @@
     }
   },
   "plugins": [
+    "google-adsense",
     "theme-comscore",
     "anchors",
     "-lunr",

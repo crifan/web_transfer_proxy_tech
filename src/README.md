@@ -1,7 +1,7 @@
 # 网络中转站：代理技术
 
-* 最新版本：`v1.0`
-* 更新时间：`20201230`
+* 最新版本：`v1.1`
+* 更新时间：`20210916`
 
 ## 简介
 
@@ -21,14 +21,14 @@
 
 ### 在线浏览
 
-* [网络中转站：代理技术 book.crifan.com](http://book.crifan.com/books/web_transfer_proxy_tech/website)
+* [网络中转站：代理技术 book.crifan.com](https://book.crifan.com/books/web_transfer_proxy_tech/website)
 * [网络中转站：代理技术 crifan.github.io](https://crifan.github.io/web_transfer_proxy_tech/website)
 
 ### 离线下载阅读
 
-* [网络中转站：代理技术 PDF](http://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf)
-* [网络中转站：代理技术 ePub](http://book.crifan.com/books/web_transfer_proxy_tech/epub/web_transfer_proxy_tech.epub)
-* [网络中转站：代理技术 Mobi](http://book.crifan.com/books/web_transfer_proxy_tech/mobi/web_transfer_proxy_tech.mobi)
+* [网络中转站：代理技术 PDF](https://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf)
+* [网络中转站：代理技术 ePub](https://book.crifan.com/books/web_transfer_proxy_tech/epub/web_transfer_proxy_tech.epub)
+* [网络中转站：代理技术 Mobi](https://book.crifan.com/books/web_transfer_proxy_tech/mobi/web_transfer_proxy_tech.mobi)
 
 ## 版权说明
 

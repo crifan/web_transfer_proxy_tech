@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/web_transfer_proxy_tech/website/"
+      "prefix": "https://book.crifan.com/books/web_transfer_proxy_tech/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf"
+      "url": "https://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf"
     }
   }
 }
