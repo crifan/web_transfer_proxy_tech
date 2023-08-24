@@ -1,7 +1,7 @@
 # 网络中转站：代理技术
 
-* 最新版本：`v1.1`
-* 更新时间：`20210916`
+* 最新版本：`v1.2`
+* 更新时间：`20230824`
 
 ## 简介
 
@@ -11,35 +11,45 @@
 
 本书的各种源码、在线浏览地址、多种格式文件下载如下：
 
-### Gitbook源码
+### HonKit源码
 
 * [crifan/web_transfer_proxy_tech: 网络中转站：代理技术](https://github.com/crifan/web_transfer_proxy_tech)
 
-#### 如何使用此Gitbook源码去生成发布为电子书
+#### 如何使用此HonKit源码去生成发布为电子书
 
-详见：[crifan/gitbook_template: demo how to use crifan gitbook template and demo](https://github.com/crifan/gitbook_template)
+详见：[crifan/honkit_template: demo how to use crifan honkit template and demo](https://github.com/crifan/honkit_template)
 
 ### 在线浏览
 
-* [网络中转站：代理技术 book.crifan.com](https://book.crifan.com/books/web_transfer_proxy_tech/website)
-* [网络中转站：代理技术 crifan.github.io](https://crifan.github.io/web_transfer_proxy_tech/website)
+* [网络中转站：代理技术 book.crifan.org](https://book.crifan.org/books/web_transfer_proxy_tech/website/)
+* [网络中转站：代理技术 crifan.github.io](https://crifan.github.io/web_transfer_proxy_tech/website/)
 
 ### 离线下载阅读
 
-* [网络中转站：代理技术 PDF](https://book.crifan.com/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf)
-* [网络中转站：代理技术 ePub](https://book.crifan.com/books/web_transfer_proxy_tech/epub/web_transfer_proxy_tech.epub)
-* [网络中转站：代理技术 Mobi](https://book.crifan.com/books/web_transfer_proxy_tech/mobi/web_transfer_proxy_tech.mobi)
+* [网络中转站：代理技术 PDF](https://book.crifan.org/books/web_transfer_proxy_tech/pdf/web_transfer_proxy_tech.pdf)
+* [网络中转站：代理技术 ePub](https://book.crifan.org/books/web_transfer_proxy_tech/epub/web_transfer_proxy_tech.epub)
+* [网络中转站：代理技术 Mobi](https://book.crifan.org/books/web_transfer_proxy_tech/mobi/web_transfer_proxy_tech.mobi)
 
-## 版权说明
+## 版权和用途说明
 
-此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+此电子书教程的全部内容，如无特别说明，均为本人原创。其中部分内容参考自网络，均已备注了出处。如发现有侵权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+
+各种技术类教程，仅作为学习和研究使用。请勿用于任何非法用途。如有非法用途，均与本人无关。
 
 ## 鸣谢
 
 感谢我的老婆**陈雪**的包容理解和悉心照料，才使得我`crifan`有更多精力去专注技术专研和整理归纳出这些电子书和技术教程，特此鸣谢。
 
-## 更多其他电子书
+## 其他
 
-本人`crifan`还写了其他`100+`本电子书教程，感兴趣可移步至：
+### 作者的其他电子书
+
+本人`crifan`还写了其他`150+`本电子书教程，感兴趣可移步至：
 
 [crifan/crifan_ebook_readme: Crifan的电子书的使用说明](https://github.com/crifan/crifan_ebook_readme)
+
+### 关于作者
+
+关于作者更多介绍，详见：
+
+[关于CrifanLi李茂 – 在路上](https://www.crifan.org/about/)
